@@ -152,7 +152,6 @@ stated here plainly and in Apple's privacy label before it happens.
 Questions about this policy or about your data:
 
 - Open an issue: <https://github.com/ohwhybe/sodi-support/issues>
-- Email: `<!-- TODO: add the contact address you want published here -->`
 
 <!--
   Deliberately left blank rather than filled with a personal address: this page
